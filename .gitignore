@@ -1,0 +1,8 @@
+target
+logs
+*.iml
+*.ipr
+*.iws
+.nbproject
+.classpath
+.idea
